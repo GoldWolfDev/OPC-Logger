@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jeasyopc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jeasyopc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

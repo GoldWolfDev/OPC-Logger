@@ -1,0 +1,38 @@
+"2016.08.06 at 23:40:47"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:40:48"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:52:06"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:52:07"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:53:43"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:53:44"  WARN JavaFX Application Thread DTDEntityResolver:resolveEntity:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+"2016.08.06 at 23:53:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:53:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:53:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:53:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:54:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:54:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:55:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:55:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:56:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:56:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:57:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:57:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:58:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:58:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:59:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.06 at 23:59:44" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:00:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:00:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:01:44" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:01:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:02:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:02:45" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:03:45" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:03:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:04:45" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:04:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:05:45" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:05:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:06:45" ERROR Thread-6 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:06:45" ERROR Thread-5 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:24:43" ERROR Thread-9 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever Lectus.DA.2 -> Address:192.168.3.210 не установлена.
+"2016.08.07 at 00:24:43" ERROR Thread-11 JeazyOPCSerivice:connectToOPCServer:139 - связь с OPC Sever ICONICS.Simulator.1 -> Address:192.168.3.210 не установлена.
